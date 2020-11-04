@@ -5,7 +5,7 @@ import java.math.BigInteger;
  * This class represents a public key in the Paillier scheme. It merely stores the key.
  * The key should be generated externally.
  *
- * @author Changyu Dong
+ * @author lecturer Changyu Dong, student Oana Ivanovici
  */
 public class PublicKey {
 	
