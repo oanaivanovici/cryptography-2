@@ -6,7 +6,7 @@ import java.security.SecureRandom;
 /**
  * This class implements the algorithms in the Paillier scheme.
  *
- * @author Changyu Dong
+ * @author lecturer Changyu Dong, student Oana Ivanovici
  */
 
 public class PaillierScheme {
