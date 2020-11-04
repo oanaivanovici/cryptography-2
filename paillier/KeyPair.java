@@ -4,7 +4,7 @@ package uk.ac.ncl.undergraduate.modules.csc3621.paillier;
  * This class represents a public/private key pair. It merely stores the keys.
  * The keys should be generated externally.
  *
- * @author Changyu Dong
+ * @author lecturer Changyu Dong, student Oana Ivanovici
  */
 
 public class KeyPair {
